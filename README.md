@@ -1,5 +1,5 @@
 # Atividade_de_mineração
-
+```
 --- Entropia ---
   Gênero  Idade         Escolaridade Estado Civil  Renda (R$) Comprou
 0      F     22                Médio     Solteiro        2500     Não
