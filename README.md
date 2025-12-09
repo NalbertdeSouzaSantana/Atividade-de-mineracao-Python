@@ -1,4 +1,9 @@
 # Atividade_de_mineração
+
+Este código realiza uma pequena atividade de mineração de dados, calculando a entropia de um atributo,
+construindo uma árvore de decisão com base no ganho de informação e classificando novas instâncias de acordo com os ramos da árvore.
+Ele demonstra conceitos fundamentais como impureza, divisão ótima e tomada de decisão.
+
 ```
 --- Entropia ---
   Gênero  Idade         Escolaridade Estado Civil  Renda (R$) Comprou
